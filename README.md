@@ -4,7 +4,7 @@ Ich bin **Mariia Posselt**, eine leidenschaftliche Frontend-Entwicklerin mit ein
 
 [My page](https://mariia.de)
 
-Ich habe umfassende Erfahrung in der Arbeit mit verschiedenen Softwareanwendungen:
+Ich habe umfassende Erfahrung in der Arbeit mit verschiedenen Softwareanwendungen, Programmiersprachen, Auszeichnungssprachen und BibBibliotheken:
 
 - MS Visual Studio Code
 - Web Storm
