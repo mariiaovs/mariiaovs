@@ -17,3 +17,5 @@ Ich habe umfassende Erfahrung in der Arbeit mit verschiedenen Softwareanwendunge
 - Redux
 
 ![Codewars Profile Badge](https://www.codewars.com/users/mariiaovs/badges/large?theme=light)
+
+![Ein Einhorn](einhorn.jpg)
