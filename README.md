@@ -16,6 +16,6 @@ Ich habe umfassende Erfahrung in der Arbeit mit verschiedenen Softwareanwendunge
 - React
 - Redux
 
-![Codewars Profile Badge](https://www.codewars.com/users/mariiaovs/badges/large?theme=light)
+[![Codewars Profile Badge](https://www.codewars.com/users/mariiaovs/badges/large?theme=light)](https://www.codewars.com/users/mariiaovs)
 
 ![Ein Einhorn](einhorn.jpg)
