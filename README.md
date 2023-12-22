@@ -1,4 +1,4 @@
-# Hi, this is my GitHub Page! 🐢
+# Hi, this is my GitHub Page!
 
 [My page](https://dev.mariia.de)
 
