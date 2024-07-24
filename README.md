@@ -8,8 +8,9 @@ Ich bin Mariia Posselt, eine engagierte Frontend Entwicklerin mit einer großen 
 
 ## Projekte 🚀
 ### ClanPlan – Family Task Manager
-Ein Teamprojekt, das während meiner Weterbildung entstanden ist. ClanPlan ist ein praktischer Aufgabenmanager für Familien, den ich gemeinsam mit meinem Team entwickelt habe.
+Ein Teamprojekt, das während meiner Ausbildung entstanden ist. ClanPlan ist ein praktischer Aufgabenmanager für Familien, den ich gemeinsam mit meinem Team entwickelt habe.
 🔗 [Projekt auf GitHub ansehen](https://github.com/PaulJohannFlade/Capstone_ClanPlan)
+🔗 [Webseite besuchen](http://www.clanplan.org)
 
 ## Fähigkeiten 🛠️
 - **Programmiersprachen:** JavaScript, TypeScript
