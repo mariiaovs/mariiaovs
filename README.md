@@ -4,7 +4,7 @@ Ich bin Mariia Posselt, eine engagierte Frontend Entwicklerin mit einer großen 
 
 ## Über mich 👩‍💻
 - **Standort:** Dresden, Deutschland
-- **Kontakt:** [GitHub](https://github.com/mariiaovs), [LinkedIn](https://www.linkedin.com/in/mariia-p-58680128a)
+- **Kontakt:** [Telegram](https://t.me/marijaovs), [LinkedIn](https://www.linkedin.com/in/mariia-p-58680128a)
 
 ## Projekte 🚀
 ### ClanPlan – Family Task Manager
@@ -13,7 +13,7 @@ Ein Teamprojekt, das während meiner Weterbildung entstanden ist. ClanPlan ist e
 
 ## Fähigkeiten 🛠️
 - **Programmiersprachen:** JavaScript, TypeScript
-  [![Codewars Profile Badge](https://www.codewars.com/users/mariiaovs/badges/large?theme=light)](https://www.codewars.com/users/mariiaovs)
+- [![Codewars Profile Badge](https://www.codewars.com/users/mariiaovs/badges/large?theme=light)](https://www.codewars.com/users/mariiaovs)
 - **Frameworks, Libraries:** ReactJS, NextJS
 - **Tools:** Git, GitHub, VSCode
 - **Webtechnologien:** HTML, CSS, RESTful APIs
@@ -24,4 +24,3 @@ Ein Teamprojekt, das während meiner Weterbildung entstanden ist. ClanPlan ist e
 Ich freue mich darauf, mich mit anderen Entwicklern auszutauschen und neue spannende Projekte zu starten. Zögere nicht, mich zu kontaktieren!
 
 Danke, dass du vorbeischaust und viel Spaß beim Durchstöbern meiner Projekte! 🚀
-
