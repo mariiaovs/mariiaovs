@@ -21,10 +21,10 @@ Ein Teamprojekt, das während meiner Ausbildung entstanden ist. ClanPlan ist ein
 - **Datenbanken:** MongoDB, Mongoose ODM
 - **Methoden:** Agile Methoden, Responsive Design, Web Accessibility, UX/UI Basics
 
+![Programmiersprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiaovs&layout=donut-vertical&theme=light&langs_count=10)
+
 ## Lass uns verbinden! 🌐
 Ich freue mich darauf, mich mit anderen Entwicklern auszutauschen und neue spannende Projekte zu starten. Zögere nicht, mich zu kontaktieren!
 
-Danke, dass du vorbeischaust und viel Spaß beim Durchstöbern meiner Projekte! 🚀
-
-![Programmiersprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiaovs&layout=pie&theme=dark&langs_count=10)
+Danke, dass du vorbeischaust und viel Spaß beim Durchstöbern meiner Projekte!
 
