@@ -5,6 +5,7 @@ Ich bin Mariia Posselt, eine engagierte Frontend Entwicklerin mit einer großen 
 ## Über mich 👩‍💻
 - **Standort:** Dresden, Deutschland
 - **Kontakt:** [Telegram](https://t.me/marijaovs), [LinkedIn](https://www.linkedin.com/in/mariia-p-58680128a)
+- [Besuche meine Webseite](https://mariia.de)
 
 ## Projekte 🚀
 ### ClanPlan – Family Task Manager
